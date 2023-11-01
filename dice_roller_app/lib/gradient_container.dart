@@ -18,7 +18,7 @@ class GradientContainer extends StatelessWidget {
         gradient: LinearGradient(
           colors: [color1, color2],
           begin: startAlignment,
-          end: endAlignment,
+        
         ),
       ),
       child: const Center(
